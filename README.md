@@ -51,7 +51,7 @@ Path      : vanced(english_.armeabi_v7a.dark).apk </br>
 
 Algorithm : MD5 </br>
 Hash      : 9B39B6527C3C537A938AC3D670F6104F </br>
-Path      : Vanced(english_arm64.dark).apk </br>
+Path      : vanced(english_arm64.dark).apk </br>
 
 Algorithm : MD5 </br>
 Hash      : 0D6B41735E8EED45298A11B046365D1F </br>
@@ -59,7 +59,7 @@ Path      : vanced(english_en.x86.dark).apk </br>
 
 Algorithm : MD5 </br>
 Hash      : 57BE771A8FB73E9312850FB3CBBF6D58 </br>
-Path      : Vanced_arm64_all_languages.apk </br>
+Path      : vanced_arm64_all_languages.apk </br>
 
 Algorithm : MD5 </br>
 Hash      : 092D6645674F045E67A3AAD6C7AAF00A </br>
