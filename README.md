@@ -33,19 +33,7 @@ If you trust me use this, otherwise download the manager from here https://www.a
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | microg                                 | https://github.com/daboynb/vanced_apk_standalone/raw/main/microg/microg.apk or https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced |   
 
-# How I've made them
-
-1) I've installed with the manager the non-root version.
-
-2) I've backed up vanced with "Split APKs Installer (SAI)".
-
-3) The SAI output was an apks file.
-
-4) I've converted with antisplit the apks to apk.
-
-5) I've signed the apk with apksigner.
-
-# How you can make it by yourself
+# How I've made them and how you can make it by yourself
 
 1) Install vanced with manager 
 
