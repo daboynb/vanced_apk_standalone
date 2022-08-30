@@ -39,6 +39,35 @@ Enjoy :)
 | Name                                   | Link                                                                                                                    |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | microg                                 | https://github.com/daboynb/vanced_apk_standalone/raw/main/microg/microg.apk or https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced |   
+# Hashes
+
+Algorithm : MD5 </br>
+Hash      : 693F4AD9FCC2C5578A2D8186A492FB42 </br>
+Path      : microg.apk </br>
+
+Algorithm : MD5 </br>
+Hash      : 1884D18FA16AB3DC46EB33599D76F2B7 </br>
+Path      : vanced(english_.armeabi_v7a.dark).apk </br>
+
+Algorithm : MD5 </br>
+Hash      : 9B39B6527C3C537A938AC3D670F6104F </br>
+Path      : Vanced(english_arm64.dark).apk </br>
+
+Algorithm : MD5 </br>
+Hash      : 0D6B41735E8EED45298A11B046365D1F </br>
+Path      : vanced(english_en.x86.dark).apk </br>
+
+Algorithm : MD5 </br>
+Hash      : 57BE771A8FB73E9312850FB3CBBF6D58 </br>
+Path      : Vanced_arm64_all_languages.apk </br>
+
+Algorithm : MD5 </br>
+Hash      : 092D6645674F045E67A3AAD6C7AAF00A </br>
+Path      : vanced_armeabi_v7a_all_languages.apk </br>
+
+Algorithm : MD5 </br>
+Hash      : 8DC96BFBFD35C47532F3F9CDF9B19ED6 </br>
+Path      : vanced_x86_all_languages.apk </br>
 
 # Virustotal
 
