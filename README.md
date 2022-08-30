@@ -12,6 +12,11 @@ Since it got discontinued and the manager will stop work when the mirrors will b
 
 Enjoy :)
 
+# Disclaimer
+
+Those builds are selfmade because I don't want to trust some random people on the internet.
+If you trust me use this, otherwise download he manager from here https://www.apkmirror.com/apk/team-vanced/vanced-manager and see if it still works.
+
 # How I've made them
 
 1) I've installed with the manager the non-root version.
