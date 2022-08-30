@@ -14,6 +14,8 @@ Since it got discontinued and the manager will stop work when the mirrors will b
 
 5) I've signed the apk with apksigner.
 
+# Downloads
+
 | Name                                   | Link                                                                                                                    |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | vanced_x86_all_languages.apk           | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/vanced_x86_all_languages.apk         |
