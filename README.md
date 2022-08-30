@@ -15,7 +15,7 @@ Enjoy :)
 # Disclaimer
 
 Those builds are selfmade because I don't want to trust some random people on the internet.
-If you trust me use this, otherwise download he manager from here https://www.apkmirror.com/apk/team-vanced/vanced-manager and see if it still works.
+If you trust me use this, otherwise download the manager from here https://www.apkmirror.com/apk/team-vanced/vanced-manager and see if it still works.
 
 # How I've made them
 
