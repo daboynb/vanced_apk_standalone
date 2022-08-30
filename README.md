@@ -38,7 +38,7 @@ Enjoy :)
 
 | Name                                   | Link                                                                                                                    |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| microg                                 | https://github.com/daboynb/vanced_apk_standalone/raw/main/microg/microg.apk                                             |   
+| microg                                 | https://github.com/daboynb/vanced_apk_standalone/raw/main/microg/microg.apk or https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced |   
 
 # Virustotal
 
