@@ -30,10 +30,10 @@ Enjoy :)
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | vanced_x86_all_languages.apk           | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/vanced_x86_all_languages.apk         |
 | vanced_armeabi_v7a_all_languages.apk   | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/vanced_armeabi_v7a_all_languages.apk |
-| vanced_arm64_all_languages.apk         | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/Vanced_arm64_all_languages.apk       |
+| vanced_arm64_all_languages.apk         | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/vanced_arm64_all_languages.apk       |
 | vanced(english_en.x86.dark).apk        | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20english/vanced(english_en.x86.dark).apk              |
 | vanced(english_.armeabi_v7a.dark).apk  | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20english/vanced(english_.armeabi_v7a.dark).apk        |
-| vanced(english_arm64.dark).apk         | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20english/Vanced(english_arm64.dark).apk               |
+| vanced(english_arm64.dark).apk         | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20english/vanced(english_arm64.dark).apk               |
 
 
 | Name                                   | Link                                                                                                                    |
