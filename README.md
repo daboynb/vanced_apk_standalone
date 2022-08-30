@@ -2,6 +2,16 @@
 
 Since it got discontinued and the manager will stop work when the mirrors will be down I've made standalone apks of the non-root version.
 
+# How to use
+
+1) Download the correct version for your phone architecture
+
+2) Download microg
+
+3) Install first microg then vanced
+
+Enjoy :)
+
 # How I've made them
 
 1) I've installed with the manager the non-root version.
