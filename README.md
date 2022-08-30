@@ -29,3 +29,24 @@ Since it got discontinued and the manager will stop work when the mirrors will b
 | Name                                   | Link                                                                                                                    |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | microg                                 | https://github.com/daboynb/vanced_apk_standalone/raw/main/microg/microg.apk                                             |   
+
+# Virustotal
+
+microg </br> https://www.virustotal.com/gui/file/e5ce4f9759d3e70ac479bf2d0707efe5a42fca8513cf387de583b8659dbfbbbf/detection
+
+Vanced_arm64_all_languages.apk </br> https://www.virustotal.com/gui/file/6f05cb3a0002e834309a11d6c3e8709e8b1e1561e25721470f2a65d3d3fa6589
+
+
+vanced_armeabi_v7a_all_languages.apk </br> https://www.virustotal.com/gui/file/e91743cbdaa292da60bf8a6976c1c8d7b908692bc9de8f8467e367c42f327678
+
+
+vanced_x86_all_languages.apk </br> https://www.virustotal.com/gui/file/deadc0a9b27e4f94acf704d7fca6c6cc396f2529839930540c72dc13aa089179
+
+vanced(english_.armeabi_v7a.dark).apk </br> https://www.virustotal.com/gui/file/e26cc160054542b7791888c97e34d90fddcbb687f8e3ef77c8369bd09cf081d3
+
+
+Vanced(english_arm64.dark).apk </br> https://www.virustotal.com/gui/file/9a69c0fd5a4e2aa1cbf5769c73db54216217a81ca7b79dd0319fabf669f79c50
+
+
+vanced(english_en.x86.dark).apk </br> https://www.virustotal.com/gui/file/2ce6bc38c3088f36bf4a6e7a5545636bf82bb3de9612e4ee7d2ca5d9632c97cb 
+
