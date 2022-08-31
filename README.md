@@ -59,7 +59,7 @@ Second method:
 
 2) Download and install https://play.google.com/store/apps/details?id=com.haibison.apksigner&hl=en&gl=US
 
-3) Open apksinger, sign the original apks from the original_vanced_apks_v17.03.38 folder (language, arch, theme )
+3) Open apksinger, sign the original apks from the original_vanced_apks_v17.03.38 folder (language, arch, theme)
 
 4) Install youtube vanced with SAI
 
