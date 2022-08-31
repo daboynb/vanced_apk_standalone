@@ -35,7 +35,9 @@ If you trust me use this, otherwise download the manager from here https://www.a
 
 # How I've made them and how you can make it by yourself
 
-1) Install vanced with manager 
+First method:
+
+1) Install youtube vanced with manager 
 
 2) Download and install https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=en&gl=US
 
@@ -50,6 +52,26 @@ If you trust me use this, otherwise download the manager from here https://www.a
 7) Open apksigner and sign the apk created by antisplit
 
 8) Install and enjoy
+
+Second method:
+
+1) Download and install https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=en&gl=US
+
+2) Download and install https://play.google.com/store/apps/details?id=com.haibison.apksigner&hl=en&gl=US
+
+3) Open apksinger, sign the original apks from the original_vanced_apks_v17.03.38 folder (language, arch, theme )
+
+4) Install youtube vanced with SAI
+
+5) Make a backup of youtube vanced with SAI
+
+6) Download and install https://forum.xda-developers.com/t/antisplit-g2-mod-debugged.4303349
+
+7) Open antisplit, browse the apks file created by SAI and click on merge
+
+8) Open apksigner and sign the apk created by antisplit
+
+9) Install and enjoy
 
 # Hashes
 
