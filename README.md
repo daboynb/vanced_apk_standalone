@@ -17,22 +17,6 @@ Enjoy :)
 Those builds are selfmade because I don't want to trust some random people on the internet.
 If you trust me use this, otherwise download the manager from here https://www.apkmirror.com/apk/team-vanced/vanced-manager and see if it still works.
 
-# Downloads
-
-| Name                                   | Link                                                                                                                    |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| vanced_x86_all_languages.apk           | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/vanced_x86_all_languages.apk         |
-| vanced_armeabi_v7a_all_languages.apk   | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/vanced_armeabi_v7a_all_languages.apk |
-| vanced_arm64_all_languages.apk         | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20all%20languages/vanced_arm64_all_languages.apk       |
-| vanced(english_en.x86.dark).apk        | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20english/vanced(english_en.x86.dark).apk              |
-| vanced(english_.armeabi_v7a.dark).apk  | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20english/vanced(english_.armeabi_v7a.dark).apk        |
-| vanced(english_arm64.dark).apk         | https://github.com/daboynb/vanced_apk_standalone/raw/main/vanced%20english/vanced(english_arm64.dark).apk               |
-
-
-| Name                                   | Link                                                                                                                    |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| microg                                 | https://github.com/daboynb/vanced_apk_standalone/raw/main/microg/microg.apk or https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced |   
-
 # How I've made them and how you can make it by yourself
 
 First method:
