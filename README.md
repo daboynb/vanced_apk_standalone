@@ -1,4 +1,4 @@
-# Youtube vanced 
+# Youtube vanced non-root
 
 Since it got discontinued and the manager will stop work when the mirrors will be down I've made standalone apks of the non-root version.
 
