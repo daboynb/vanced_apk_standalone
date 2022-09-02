@@ -14,8 +14,7 @@ Enjoy :)
 
 # Disclaimer
 
-Those builds are selfmade because I don't want to trust some random people on the internet.
-If you trust me use this, otherwise download the manager from here https://www.apkmirror.com/apk/team-vanced/vanced-manager and see if it still works.
+Those builds are selfmade because when the mirrors of vanced manager will be down I will not need to trust some random people on the internet. If you trust me use this, otherwise download the manager and see if the mirrors still works.
 
 # How I've made them and how you can make it by yourself
 
