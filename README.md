@@ -18,7 +18,7 @@ Those builds are selfmade because when the mirrors of vanced manager will be dow
 
 # How I've made them and how you can make it by yourself
 
-First method:
++++++++++++++++++++++++++++++ First method +++++++++++++++++++++++++++++
 
 1) Install youtube vanced with manager 
 
@@ -36,7 +36,7 @@ First method:
 
 8) Install and enjoy
 
-Second method:
++++++++++++++++++++++++++++++ Second method +++++++++++++++++++++++++++++
 
 1) Download and install https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=en&gl=US
 
