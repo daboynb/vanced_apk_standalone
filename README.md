@@ -1,4 +1,10 @@
-# Youtube vanced non-root
+# XDA
+
+More than 6.400 downloads on xda! </br>
+
+https://forum.xda-developers.com/t/app-vanced-all-in-one-apk.4435337/
+
+# Youtube vanced non-root all languages
 
 Since it got discontinued and the manager will stop work when the mirrors will be down I've made standalone apks of the non-root version.
 
