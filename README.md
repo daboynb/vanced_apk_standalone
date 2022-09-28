@@ -20,7 +20,7 @@ Enjoy :)
 
 # Disclaimer
 
-Those builds are selfmade because when the mirrors of vanced manager will be down I will not need to trust some random people on the internet. If you trust me use this, otherwise download the manager and see if the mirrors still works.
+Those builds are selfmade because when the mirrors of vanced manager will be down I will not need to trust some random people on the internet. If you trust me use this, otherwise download the manager and see if the mirrors still work.
 
 # How I've made them and how you can make it by yourself
 
