@@ -1,6 +1,6 @@
 # XDA
 
-More than 6.400 downloads on xda! </br>
+On xda too! </br>
 
 https://forum.xda-developers.com/t/app-vanced-all-in-one-apk.4435337/
 
